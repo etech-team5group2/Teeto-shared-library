@@ -21,7 +21,7 @@ def call (String repoUrl){
             }
             stage("3-team5-test-shared"){
                 steps{
-                    echo "let us tesu this module"
+                    echo "let us test this module"
                 }
 
             }
